@@ -1,0 +1,15 @@
+C:\Users\Sanjith BS\Downloads\atyatipoc\Project1\bin\Debug\net6.0\Project1.exe
+C:\Users\Sanjith BS\Downloads\atyatipoc\Project1\bin\Debug\net6.0\Project1.deps.json
+C:\Users\Sanjith BS\Downloads\atyatipoc\Project1\bin\Debug\net6.0\Project1.runtimeconfig.json
+C:\Users\Sanjith BS\Downloads\atyatipoc\Project1\bin\Debug\net6.0\Project1.dll
+C:\Users\Sanjith BS\Downloads\atyatipoc\Project1\bin\Debug\net6.0\Project1.pdb
+C:\Users\Sanjith BS\Downloads\atyatipoc\Project1\obj\Debug\net6.0\Project1.csproj.AssemblyReference.cache
+C:\Users\Sanjith BS\Downloads\atyatipoc\Project1\obj\Debug\net6.0\Project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sanjith BS\Downloads\atyatipoc\Project1\obj\Debug\net6.0\Project1.AssemblyInfoInputs.cache
+C:\Users\Sanjith BS\Downloads\atyatipoc\Project1\obj\Debug\net6.0\Project1.AssemblyInfo.cs
+C:\Users\Sanjith BS\Downloads\atyatipoc\Project1\obj\Debug\net6.0\Project1.csproj.CoreCompileInputs.cache
+C:\Users\Sanjith BS\Downloads\atyatipoc\Project1\obj\Debug\net6.0\Project1.dll
+C:\Users\Sanjith BS\Downloads\atyatipoc\Project1\obj\Debug\net6.0\refint\Project1.dll
+C:\Users\Sanjith BS\Downloads\atyatipoc\Project1\obj\Debug\net6.0\Project1.pdb
+C:\Users\Sanjith BS\Downloads\atyatipoc\Project1\obj\Debug\net6.0\Project1.genruntimeconfig.cache
+C:\Users\Sanjith BS\Downloads\atyatipoc\Project1\obj\Debug\net6.0\ref\Project1.dll
